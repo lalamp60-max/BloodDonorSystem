@@ -364,15 +364,16 @@ The application screenshots are included in the project presentation and documen
 To view the application screens, open the presentation below.
 
 ---
+
 ## 📚 Project Documentation
 
 ### 📄 Project Report (PDF)
 
-[**Click Here to View Project Report (PDF)**](https://github.com/lalamp60-max/BloodDonorSystem/blob/main/Documentation/JavaPDF.pdf)
+[**Click Here to View Project Report (PDF)**](https://github.com/lalamp60-max/BloodDonorSystem/blob/main/BloodDonorSystem/Documentation/JavaPDF.pdf)
 
 ### 📊 Project Presentation (PPT)
 
-[**Click Here to View Project Presentation (PPT)**](https://github.com/lalamp60-max/BloodDonorSystem/blob/main/Documentation/JAVA.pptx)
+[**Click Here to View Project Presentation (PPT)**](https://github.com/lalamp60-max/BloodDonorSystem/blob/main/BloodDonorSystem/Documentation/JAVA.pptx)
 
 ---
 
